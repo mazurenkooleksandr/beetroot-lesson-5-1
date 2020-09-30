@@ -10,12 +10,12 @@ div {
     width: 60px;
     height: 290px;
     background: #ffe5e6;
-    margin-left: 15px;
+    margin-left: 14px;
     display: inline-block;
 }
 
 .image {
     position: relative;
     top: 220px;
-    left: 130px; 
+    left: 123px; 
 }
